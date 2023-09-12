@@ -1,10 +1,48 @@
-#flowers{
- height: 200px;
- width: auto;
+h1{
+    text-align: center;
+    color: rgb(234, 214, 90);
+}
+
+h2{
+    text-align: center;
+}
+
+
+h3{
+    text-align: center;
+}
+
+
+#flowers1{
+    height: 300px;
+    width: auto;
+    border: 10px rgb(0, 0, 0);
 
 }
 
+#flowers2{
+    height: 350px;
+    width: auto;
+ 
+}
+
 .box1{
-    background-color: black;
+    background-color: rgb(138, 11, 11);
+    border: 8px rgb(219, 166, 20) solid;
+    border-spacing: 60px;
+    margin: 40px;
+    border-style: groove;
     
+}
+
+.box2{
+    background-color: rgb(138, 11, 11);
+    border: 8px rgb(219, 166, 20) solid;
+    border-spacing: 60px;
+    margin: 40px;
+    border-style: groove;
+}
+
+body{
+    background-color: rgb(46, 4, 4);
 }
