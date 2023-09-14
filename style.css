@@ -5,44 +5,46 @@ h1{
 
 h2{
     text-align: center;
+    
 }
 
 
 h3{
     text-align: center;
-}
-
-
-#flowers1{
-    height: 300px;
-    width: auto;
-    border: 10px rgb(0, 0, 0);
 
 }
 
-#flowers2{
+h4{
+    text-align: center;
+}
+
+
+.painting{
     height: 350px;
     width: auto;
- 
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
 }
 
-.box1{
+.box{
     background-color: rgb(138, 11, 11);
     border: 8px rgb(219, 166, 20) solid;
     border-spacing: 60px;
     margin: 40px;
     border-style: groove;
     
-}
-
-.box2{
-    background-color: rgb(138, 11, 11);
-    border: 8px rgb(219, 166, 20) solid;
-    border-spacing: 60px;
-    margin: 40px;
-    border-style: groove;
+    
 }
 
 body{
     background-color: rgb(46, 4, 4);
 }
+
+p{
+    margin: 20px;
+}
+
+
+
